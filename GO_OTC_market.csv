@@ -1,0 +1,266 @@
+Statistics type,Period,Years,Quarters,Month,Domain,Level 1,Level 2,Production - Issue,Production - Cancel,Production - Expire,Transaction - Issue,Transaction - Transfer,Transaction - Export,Transaction - Import,Transaction - Expire,Transaction - Cancel Own Domain,Transaction - Cancel Ex-domain
+EECS-Electricity,2019-01,2019,Qtr1,Jan,FR - France,Heat,Solar,55,8 756,0,278,0,0,92 360,0,36 948,0
+EECS-Electricity,2019-01,2019,Qtr1,Jan,FR - France,Mechanical/other,Hydro/marine,3 897 065,4 782 925,0,3 108 604,3 525 674,9 076 284,2 402 349,52 949,6 299 327,0
+EECS-Electricity,2019-01,2019,Qtr1,Jan,FR - France,Mechanical/other,Wind - offshore,1 341,1 341,0,2 418,4 057,0,0,0,2 766,0
+EECS-Electricity,2019-01,2019,Qtr1,Jan,FR - France,Mechanical/other,Wind - onshore,24 153,144 989,0,26 793,3 562,265 038,5 932,0,41 565,0
+EECS-Electricity,2019-01,2019,Qtr1,Jan,FR - France,Mechanical/other,Wind - unknown,1 725,110 567,0,3 062,0,0,0,0,17 335,0
+EECS-Electricity,2019-02,2019,Qtr1,Feb,FR - France,Heat,Solar,123,12 558,0,36,1 094,0,0,0,123 785,0
+EECS-Electricity,2019-02,2019,Qtr1,Feb,FR - France,Mechanical/other,Hydro/marine,3 835 461,3 952 536,0,2 174 288,585 516,2 137 126,2 565 648,75 074,5 090 612,0
+EECS-Electricity,2019-02,2019,Qtr1,Feb,FR - France,Mechanical/other,Wind - offshore,1 212,1 212,0,0,0,0,10 403,0,10 403,0
+EECS-Electricity,2019-02,2019,Qtr1,Feb,FR - France,Mechanical/other,Wind - onshore,15 649,41 788,0,17 158,13 812,4 783,94 593,0,74 181,0
+EECS-Electricity,2019-02,2019,Qtr1,Feb,FR - France,Mechanical/other,Wind - unknown,695,96 825,0,1 488,0,0,57 939,0,50 940,0
+EECS-Electricity,2019-03,2019,Qtr1,Mar,FR - France,Heat,Solar,195 752,35 912,0,46,0,4 374,4 374,0,975,0
+EECS-Electricity,2019-03,2019,Qtr1,Mar,FR - France,Mechanical/other,Hydro/marine,4 183 252,4 646 727,0,4 508 319,334 812,3 753 541,2 887 893,32 553,5 972 124,92 500
+EECS-Electricity,2019-03,2019,Qtr1,Mar,FR - France,Mechanical/other,Wind - offshore,2 032,49 267,0,0,1 599,12 600,15 917,0,4 916,0
+EECS-Electricity,2019-03,2019,Qtr1,Mar,FR - France,Mechanical/other,Wind - onshore,2 065 179,636 868,0,35 002,20 271,33 614,22 976,2 035,62 466,118
+EECS-Electricity,2019-03,2019,Qtr1,Mar,FR - France,Mechanical/other,Wind - unknown,997,121 138,0,1 725,0,683,22 289,0,64 222,0
+EECS-Electricity,2019-04,2019,Qtr2,Apr,FR - France,Heat,Solar,200 944,14 274,0,118,0,0,0,0,0,0
+EECS-Electricity,2019-04,2019,Qtr2,Apr,FR - France,Mechanical/other,Hydro/marine,3 610 950,4 743 656,0,3 327 250,341 300,834 414,797 024,29 761,6 046 278,95 000
+EECS-Electricity,2019-04,2019,Qtr2,Apr,FR - France,Mechanical/other,Wind - offshore,2 071,2 071,0,3 462,3 462,0,3 384,0,0,0
+EECS-Electricity,2019-04,2019,Qtr2,Apr,FR - France,Mechanical/other,Wind - onshore,1 076 750,87 193,0,11 148,6 929,5 352,591,0,25 240,0
+EECS-Electricity,2019-04,2019,Qtr2,Apr,FR - France,Mechanical/other,Wind - unknown,575,4 959,0,695,0,0,0,0,0,0
+EECS-Electricity,2019-05,2019,Qtr2,May,FR - France,Heat,Solar,240 602,41 992,68,0,0,0,0,0,0,0
+EECS-Electricity,2019-05,2019,Qtr2,May,FR - France,Mechanical/other,Hydro/marine,4 448 257,4 378 349,36 068,6 087 367,74 340,508 003,477 705,38 498,2 030 090,0
+EECS-Electricity,2019-05,2019,Qtr2,May,FR - France,Mechanical/other,Wind - offshore,2 403,2 575,0,0,0,1 434,0,0,0,0
+EECS-Electricity,2019-05,2019,Qtr2,May,FR - France,Mechanical/other,Wind - onshore,1 049 291,601 665,516,22 554,3 541,569,0,0,0,0
+EECS-Electricity,2019-05,2019,Qtr2,May,FR - France,Mechanical/other,Wind - unknown,395,17 825,0,0,0,0,1 325,0,0,0
+EECS-Electricity,2019-06,2019,Qtr2,Jun,FR - France,Heat,Solar,255 596,24 143,169,126,0,0,0,0,0,0
+EECS-Electricity,2019-06,2019,Qtr2,Jun,FR - France,Mechanical/other,Hydro/marine,4 832 821,2 964 578,69 716,3 579 605,255 950,205 232,489 527,86 139,2 115 500,0
+EECS-Electricity,2019-06,2019,Qtr2,Jun,FR - France,Mechanical/other,Wind - offshore,1 239,946,0,0,0,0,0,0,3 384,0
+EECS-Electricity,2019-06,2019,Qtr2,Jun,FR - France,Mechanical/other,Wind - onshore,871 828,610 699,0,4 077,0,860,9 332,0,591,0
+EECS-Electricity,2019-06,2019,Qtr2,Jun,FR - France,Mechanical/other,Wind - unknown,365,298,0,979,0,0,0,0,1 325,0
+EECS-Electricity,2019-07,2019,Qtr3,Jul,FR - France,Heat,Solar,274 347,61 391,0,280,0,0,146,15,146,0
+EECS-Electricity,2019-07,2019,Qtr3,Jul,FR - France,Mechanical/other,Hydro/marine,3 766 131,2 437 073,30 333,5 687 183,587 799,1 479 106,1 195 145,28 800,3 055 465,0
+EECS-Electricity,2019-07,2019,Qtr3,Jul,FR - France,Mechanical/other,Wind - offshore,1 533,1 533,0,6 549,9 851,5 045,5 045,0,0,0
+EECS-Electricity,2019-07,2019,Qtr3,Jul,FR - France,Mechanical/other,Wind - onshore,795 980,208 411,8 540,54 807,74 796,8 599,15 114,48,5 050,0
+EECS-Electricity,2019-07,2019,Qtr3,Jul,FR - France,Mechanical/other,Wind - unknown,363,281,0,935,0,0,0,0,0,0
+EECS-Electricity,2019-08,2019,Qtr3,Aug,FR - France,Heat,Solar,247 615,148 429,0,195 780,0,0,20 899,17,899,0
+EECS-Electricity,2019-08,2019,Qtr3,Aug,FR - France,Mechanical/other,Hydro/marine,3 096 787,2 121 718,30 856,3 614 401,5 760,336 463,554 096,70 938,1 163 085,0
+EECS-Electricity,2019-08,2019,Qtr3,Aug,FR - France,Mechanical/other,Wind - offshore,1 306,1 306,0,0,0,0,0,0,0,0
+EECS-Electricity,2019-08,2019,Qtr3,Aug,FR - France,Mechanical/other,Wind - onshore,768 755,267 063,1 117,2 040 722,0,0,2 807,390,11 435,0
+EECS-Electricity,2019-08,2019,Qtr3,Aug,FR - France,Mechanical/other,Wind - unknown,568,484,0,0,0,0,55 610,0,33 417,0
+EECS-Electricity,2019-09,2019,Qtr3,Sep,FR - France,Heat,Solar,198 417,122 781,0,201 006,396 334,21 643,86 058,14,318,0
+EECS-Electricity,2019-09,2019,Qtr3,Sep,FR - France,Mechanical/other,Hydro/marine,1 976 733,1 615 313,29 189,3 947 609,724 385,1 062 488,448 091,94 210,1 465 639,0
+EECS-Electricity,2019-09,2019,Qtr3,Sep,FR - France,Mechanical/other,Wind - offshore,2 070,2 070,0,287,0,0,0,0,1 123,0
+EECS-Electricity,2019-09,2019,Qtr3,Sep,FR - France,Mechanical/other,Wind - onshore,1 251 332,916 868,0,1 084 624,3 101 209,133 869,248 483,637,13 764,0
+EECS-Electricity,2019-09,2019,Qtr3,Sep,FR - France,Mechanical/other,Wind - unknown,573,466,0,419,0,0,0,0,3 399,0
+EECS-Electricity,2019-10,2019,Qtr4,Oct,FR - France,Heat,Solar,120 245,103 414,21 580,495 963,495 739,221 028,5 000,0,98 648,0
+EECS-Electricity,2019-10,2019,Qtr4,Oct,FR - France,Mechanical/other,Hydro/marine,3 168 756,2 187 365,304 971,2 438 748,1 059 442,2 219 520,765 877,29 556,1 723 192,0
+EECS-Electricity,2019-10,2019,Qtr4,Oct,FR - France,Mechanical/other,Wind - offshore,2 122,1 833,0,327,0,0,0,0,0,0
+EECS-Electricity,2019-10,2019,Qtr4,Oct,FR - France,Mechanical/other,Wind - onshore,1 592 689,408 867,1 005 603,1 883 042,3 042 666,1 620 076,69 470,1 946,57 360,0
+EECS-Electricity,2019-10,2019,Qtr4,Oct,FR - France,Mechanical/other,Wind - unknown,1 396,1 386,141,320,0,0,2 562,0,2 562,0
+EECS-Electricity,2019-11,2019,Qtr4,Nov,FR - France,Heat,Solar,67 578,41 511,3 724,521 798,528 465,617 596,20 001,0,1,0
+EECS-Electricity,2019-11,2019,Qtr4,Nov,FR - France,Mechanical/other,Hydro/marine,5 430 732,3 651 774,245 089,2 993 812,1 003 762,5 210 166,2 092 595,31 137,1 528 444,0
+EECS-Electricity,2019-11,2019,Qtr4,Nov,FR - France,Mechanical/other,Wind - offshore,2 705,2 475,0,4 582,7 338,3 669,3 669,0,2 697,0
+EECS-Electricity,2019-11,2019,Qtr4,Nov,FR - France,Mechanical/other,Wind - onshore,1 568 889,385 925,941 136,1 541 971,1 681 347,1 292 577,5 126,0,28 830,0
+EECS-Electricity,2019-11,2019,Qtr4,Nov,FR - France,Mechanical/other,Wind - unknown,1 656,3 777,0,1 221,0,50 000,65 572,0,17 391,0
+EECS-Electricity,2019-12,2019,Qtr4,Dec,FR - France,Heat,Solar,64 726,60 639,0,198 179,202 585,250 661,67 593,0,3 614,0
+EECS-Electricity,2019-12,2019,Qtr4,Dec,FR - France,Mechanical/other,Hydro/marine,6 638 708,4 968 579,364 587,2 703 391,608 358,2 865 196,6 781 763,100 344,1 392 733,247 100
+EECS-Electricity,2019-12,2019,Qtr4,Dec,FR - France,Mechanical/other,Wind - offshore,2 270,1 672,0,0,0,0,0,0,0,0
+EECS-Electricity,2019-12,2019,Qtr4,Dec,FR - France,Mechanical/other,Wind - onshore,2 164 337,288 938,1 809 856,1 245 183,1 344 011,1 172 182,55 572,0,229 521,0
+EECS-Electricity,2019-12,2019,Qtr4,Dec,FR - France,Mechanical/other,Wind - unknown,4 570,48 325,0,0,0,25 000,25 000,0,19 787,0
+EECS-Electricity,2020-01,2020,Qtr1,Jan,FR - France,Heat,Solar,75 258,31 130,0,120 575,121 534,407 913,40 500,0,35 847,0
+EECS-Electricity,2020-01,2020,Qtr1,Jan,FR - France,Mechanical/other,Hydro/marine,5 324 953,3 468 800,181 989,6 988 326,3 789 579,8 824 446,4 378 928,165 718,5 119 143,198 810
+EECS-Electricity,2020-01,2020,Qtr1,Jan,FR - France,Mechanical/other,Wind - offshore,2 158,3 375,0,0,0,0,0,0,8 714,0
+EECS-Electricity,2020-01,2020,Qtr1,Jan,FR - France,Mechanical/other,Wind - onshore,1 877 800,1 829 774,1 874,1 575 741,659 688,900 130,134 442,80,274 685,0
+EECS-Electricity,2020-01,2020,Qtr1,Jan,FR - France,Mechanical/other,Wind - unknown,3 743,80 619,0,4 929,0,431,183 097,0,88 399,0
+EECS-Electricity,2020-02,2020,Qtr1,Feb,FR - France,Heat,Solar,114 207,60 303,0,67 487,69 887,4 825,10 602,20,21 147,0
+EECS-Electricity,2020-02,2020,Qtr1,Feb,FR - France,Mechanical/other,Hydro/marine,5 346 707,3 635 764,32 895,5 315 691,1 320 386,2 917 852,2 338 431,441 142,4 337 967,34 493
+EECS-Electricity,2020-02,2020,Qtr1,Feb,FR - France,Mechanical/other,Wind - offshore,2 595,8 866,1 718,4 939,6 613,673,0,0,0,0
+EECS-Electricity,2020-02,2020,Qtr1,Feb,FR - France,Mechanical/other,Wind - onshore,2 632 206,1 140 696,1 266 910,1 587 623,616 568,520 304,156 483,0,121 252,137
+EECS-Electricity,2020-02,2020,Qtr1,Feb,FR - France,Mechanical/other,Wind - unknown,4 454,81 626,4 663,68,0,25 913,122 488,0,126 399,0
+EECS-Electricity,2020-03,2020,Qtr1,Mar,FR - France,Heat,Solar,173 592,111 100,0,64 715,124 887,53 252,154 988,0,172 797,0
+EECS-Electricity,2020-03,2020,Qtr1,Mar,FR - France,Mechanical/other,Hydro/marine,6 258 780,3 593 215,340 891,6 200 482,213 883,1 803 984,1 744 535,2 203,13 291 335,75
+EECS-Electricity,2020-03,2020,Qtr1,Mar,FR - France,Mechanical/other,Wind - offshore,2 595,2 595,0,2 158,0,668,47 407,0,54 081,0
+EECS-Electricity,2020-03,2020,Qtr1,Mar,FR - France,Mechanical/other,Wind - onshore,2 005 637,777 874,1 146 069,2 189 541,513 887,214 698,307 786,1 992,2 084 933,34
+EECS-Electricity,2020-03,2020,Qtr1,Mar,FR - France,Mechanical/other,Wind - unknown,4 383,233 667,0,1 563,0,0,73 285,0,106 126,0
+EECS-Electricity,2020-04,2020,Qtr2,Apr,FR - France,Heat,Solar,217 735,151 388,0,75 172,81 544,44 391,12 147,0,43 953,0
+EECS-Electricity,2020-04,2020,Qtr2,Apr,FR - France,Mechanical/other,Hydro/marine,4 109 248,2 447 911,185 029,7 953 508,465 053,270 399,593 741,29 760,5 925 466,19 023
+EECS-Electricity,2020-04,2020,Qtr2,Apr,FR - France,Mechanical/other,Wind - offshore,421,421,0,0,0,81,0,0,0,0
+EECS-Electricity,2020-04,2020,Qtr2,Apr,FR - France,Mechanical/other,Wind - onshore,1 010 887,362 777,5 978,1 881 936,1 844 354,100 101,163 883,1,598 518,0
+EECS-Electricity,2020-04,2020,Qtr2,Apr,FR - France,Mechanical/other,Wind - unknown,2 307,96 330,0,168,0,3,38,0,28,0
+EECS-Electricity,2020-05,2020,Qtr2,May,FR - France,Heat,Solar,264 239,66 546,178 269,114 032,123 024,45 309,143 364,21 600,95 276,0
+EECS-Electricity,2020-05,2020,Qtr2,May,FR - France,Mechanical/other,Hydro/marine,5 642 693,4 138 647,336 561,3 366 162,277 667,239 844,343 684,28 800,1 036 385,13 748
+EECS-Electricity,2020-05,2020,Qtr2,May,FR - France,Mechanical/other,Wind - offshore,474,474,0,5 128,0,0,0,0,1 674,0
+EECS-Electricity,2020-05,2020,Qtr2,May,FR - France,Mechanical/other,Wind - onshore,1 182 386,238 059,946 560,2 632 661,4 367 744,207 783,13,69 479,59 695,0
+EECS-Electricity,2020-05,2020,Qtr2,May,FR - France,Mechanical/other,Wind - unknown,2 951,76 965,0,10 050,0,0,2 755,4 364,2 755,0
+EECS-Electricity,2020-06,2020,Qtr2,Jun,FR - France,Heat,Solar,255 718,225 855,0,173 463,214 903,12 797,3 071,68,5 827,0
+EECS-Electricity,2020-06,2020,Qtr2,Jun,FR - France,Mechanical/other,Hydro/marine,5 540 018,3 152 131,238 494,2 945 741,186 777,2 193 375,199 192,36 068,1 131 315,0
+EECS-Electricity,2020-06,2020,Qtr2,Jun,FR - France,Mechanical/other,Wind - offshore,1 726,1 726,0,604,0,0,0,0,0,0
+EECS-Electricity,2020-06,2020,Qtr2,Jun,FR - France,Mechanical/other,Wind - onshore,936 515,549 698,861,1 986 531,1 640 197,399 342,4 717,516,155 660,0
+EECS-Electricity,2020-06,2020,Qtr2,Jun,FR - France,Mechanical/other,Wind - unknown,3 065,54 155,0,0,0,0,102 095,0,21 290,0
+EECS-Electricity,2020-07,2020,Qtr3,Jul,FR - France,Heat,Solar,310 243,40 509,249 999,217 697,225 106,43 289,7 036,169,22 998,0
+EECS-Electricity,2020-07,2020,Qtr3,Jul,FR - France,Mechanical/other,Hydro/marine,4 137 184,2 528 419,169 022,7 096 473,418 200,2 546 592,581 280,69 716,1 179 654,14 744
+EECS-Electricity,2020-07,2020,Qtr3,Jul,FR - France,Mechanical/other,Wind - offshore,2 053,4 097,0,877,0,0,0,0,0,0
+EECS-Electricity,2020-07,2020,Qtr3,Jul,FR - France,Mechanical/other,Wind - onshore,974 625,174 117,656 682,1 006 526,1 261 884,816 600,42 167,0,170 285,0
+EECS-Electricity,2020-07,2020,Qtr3,Jul,FR - France,Mechanical/other,Wind - unknown,3 082,13 465,0,4 609,0,831,821,0,0,0
+EECS-Electricity,2020-08,2020,Qtr3,Aug,FR - France,Heat,Solar,269 024,89 658,155 166,264 180,99 360,26 913,0,0,107 267,0
+EECS-Electricity,2020-08,2020,Qtr3,Aug,FR - France,Mechanical/other,Hydro/marine,3 261 938,1 246 746,93 939,3 935 688,503 851,2 555 251,81 307,30 333,1 199 440,0
+EECS-Electricity,2020-08,2020,Qtr3,Aug,FR - France,Mechanical/other,Wind - offshore,1 868,1 868,0,739,0,0,0,0,0,0
+EECS-Electricity,2020-08,2020,Qtr3,Aug,FR - France,Mechanical/other,Wind - onshore,928 450,287 458,631 219,1 169 762,550 013,252 195,189 989,8 540,399 344,0
+EECS-Electricity,2020-08,2020,Qtr3,Aug,FR - France,Mechanical/other,Wind - unknown,2 880,14 418,0,4 304,0,0,0,0,0,0
+EECS-Electricity,2020-09,2020,Qtr3,Sep,FR - France,Heat,Solar,211 398,81 025,67 088,255 643,259 302,40 000,505,0,94 806,0
+EECS-Electricity,2020-09,2020,Qtr3,Sep,FR - France,Mechanical/other,Hydro/marine,2 855 137,1 615 699,34 850,2 620 295,173 620,1 140 858,1 000 634,30 856,1 296 517,0
+EECS-Electricity,2020-09,2020,Qtr3,Sep,FR - France,Mechanical/other,Wind - offshore,1 256,1 256,0,421,0,0,12,0,12,0
+EECS-Electricity,2020-09,2020,Qtr3,Sep,FR - France,Mechanical/other,Wind - onshore,965 189,235 570,85 693,980 390,1 138 574,537 496,211 303,1 117,143 318,0
+EECS-Electricity,2020-09,2020,Qtr3,Sep,FR - France,Mechanical/other,Wind - unknown,2 677,6 153,0,1 368,0,0,44 997,0,21 980,0
+EECS-Electricity,2020-10,2020,Qtr4,Oct,FR - France,Heat,Solar,128 757,113 684,4 538,310 311,64 139,0,0,0,65 813,0
+EECS-Electricity,2020-10,2020,Qtr4,Oct,FR - France,Mechanical/other,Hydro/marine,4 363 302,1 765 352,238 500,5 231 564,481 982,824 157,677 440,29 189,1 388 915,19 501
+EECS-Electricity,2020-10,2020,Qtr4,Oct,FR - France,Mechanical/other,Wind - offshore,2 717,2 717,0,6 425,0,0,0,0,0,0
+EECS-Electricity,2020-10,2020,Qtr4,Oct,FR - France,Mechanical/other,Wind - onshore,1 918 886,412 227,1 165 844,971 547,370 460,112 586,2 250,0,100 563,0
+EECS-Electricity,2020-10,2020,Qtr4,Oct,FR - France,Mechanical/other,Wind - unknown,4 767,35 813,0,7 774,0,0,0,0,0,0
+EECS-Electricity,2020-11,2020,Qtr4,Nov,FR - France,Heat,Solar,123 328,5 296,109 752,269 256,115 759,0,0,21 580,36 845,0
+EECS-Electricity,2020-11,2020,Qtr4,Nov,FR - France,Mechanical/other,Hydro/marine,3 805 328,1 933 612,208 169,3 824 805,111 698,3 707 511,131 935,304 971,1 759 822,114
+EECS-Electricity,2020-11,2020,Qtr4,Nov,FR - France,Mechanical/other,Wind - offshore,2 030,2 030,0,673,0,0,0,0,2 220,0
+EECS-Electricity,2020-11,2020,Qtr4,Nov,FR - France,Mechanical/other,Wind - onshore,1 515 437,281 083,618 664,923 355,354 213,188 000,0,1 005 603,454 966,0
+EECS-Electricity,2020-11,2020,Qtr4,Nov,FR - France,Mechanical/other,Wind - unknown,3 245,21 669,0,1 490,87,0,0,141,12 334,0
+EECS-Electricity,2020-12,2020,Qtr4,Dec,FR - France,Heat,Solar,61 554,5 270,0,211 564,213 027,62 498,0,3 724,51 393,0
+EECS-Electricity,2020-12,2020,Qtr4,Dec,FR - France,Mechanical/other,Hydro/marine,4 873 537,2 466 315,224 456,2 977 631,827 850,4 560 540,9 168 495,270 563,2 267 212,170 720
+EECS-Electricity,2020-12,2020,Qtr4,Dec,FR - France,Mechanical/other,Wind - offshore,1 993,1 993,0,979,0,0,0,0,0,0
+EECS-Electricity,2020-12,2020,Qtr4,Dec,FR - France,Mechanical/other,Wind - onshore,2 129 344,1 913 677,1 275,973 604,1 085 379,674 067,121 321,941 136,139 156,0
+EECS-Electricity,2020-12,2020,Qtr4,Dec,FR - France,Mechanical/other,Wind - unknown,4 813,4 775,0,2 627,1 079,0,352 189,0,42 476,0
+EECS-Electricity,2021-01,2021,Qtr1,Jan,FR - France,Heat,Solar,83 853,57 573,400,128 807,217 557,100 496,50 192,0,48 214,0
+EECS-Electricity,2021-01,2021,Qtr1,Jan,FR - France,Mechanical/other,Hydro/marine,6 436 128,5 279 170,47 569,6 922 751,3 116 331,11 479 261,3 411 101,470 027,3 420 435,18 578
+EECS-Electricity,2021-01,2021,Qtr1,Jan,FR - France,Mechanical/other,Wind - offshore,2 116,11 515,0,0,0,0,1 217,0,2 771,0
+EECS-Electricity,2021-01,2021,Qtr1,Jan,FR - France,Mechanical/other,Wind - onshore,1 866 460,1 587 713,1 207,1 868 705,900 385,201 679,295 480,1 810 672,2 833 599,33 759
+EECS-Electricity,2021-01,2021,Qtr1,Jan,FR - France,Mechanical/other,Wind - unknown,5 363,163 449,0,301,263,13 154,186 455,0,143 406,29 450
+EECS-Electricity,2021-02,2021,Qtr1,Feb,FR - France,Heat,Solar,293 616,43 890,3 664,123 364,385 565,40 226,8 486,0,143 283,20
+EECS-Electricity,2021-02,2021,Qtr1,Feb,FR - France,Mechanical/other,Hydro/marine,6 158 552,4 791 408,39 046,6 315 158,635 245,5 816 945,1 616 319,52 335,5 149 040,0
+EECS-Electricity,2021-02,2021,Qtr1,Feb,FR - France,Mechanical/other,Wind - offshore,2 039,6 949,0,6 040,6 132,0,7 989,0,7 989,0
+EECS-Electricity,2021-02,2021,Qtr1,Feb,FR - France,Mechanical/other,Wind - onshore,2 936 731,1 242 473,6 287,1 600 809,1 294 669,149 280,60 303,1 058,990 381,190
+EECS-Electricity,2021-02,2021,Qtr1,Feb,FR - France,Mechanical/other,Wind - unknown,4 065,124 574,0,10 857,0,331 675,136 375,0,116 375,0
+EECS-Electricity,2021-03,2021,Qtr1,Mar,FR - France,Heat,Solar,578 485,426 086,20 261,61 541,65 740,142 083,6 986,0,695 283,0
+EECS-Electricity,2021-03,2021,Qtr1,Mar,FR - France,Mechanical/other,Hydro/marine,5 187 645,4 250 196,84 130,5 644 849,149 898,2 109 559,1 680 592,64 651,15 320 412,26
+EECS-Electricity,2021-03,2021,Qtr1,Mar,FR - France,Mechanical/other,Wind - offshore,2 096,4 230,0,0,0,0,8 795,1 718,12 420,6 751
+EECS-Electricity,2021-03,2021,Qtr1,Mar,FR - France,Mechanical/other,Wind - onshore,2 566 614,1 376 180,29 419,2 121 122,2 457 085,1 228 597,638 902,1 266 910,3 869 407,0
+EECS-Electricity,2021-03,2021,Qtr1,Mar,FR - France,Mechanical/other,Wind - unknown,4 481,116 741,0,0,148,0,204 759,4 663,392 110,0
+EECS-Electricity,2021-04,2021,Qtr2,Apr,FR - France,Heat,Solar,685 523,467 640,4 696,83 842,83 714,154,0,0,300,0
+EECS-Electricity,2021-04,2021,Qtr2,Apr,FR - France,Mechanical/other,Hydro/marine,3 447 897,3 470 990,118 104,3 866 472,462 722,1 774 783,118 899,307 875,2 085 775,0
+EECS-Electricity,2021-04,2021,Qtr2,Apr,FR - France,Mechanical/other,Wind - offshore,1 965,4 917,0,620,0,0,0,0,6 018,0
+EECS-Electricity,2021-04,2021,Qtr2,Apr,FR - France,Mechanical/other,Wind - onshore,2 048 725,1 352 688,9 647,1 799 292,2 067 754,309 891,27 739,1 146 069,57 564,26 750
+EECS-Electricity,2021-04,2021,Qtr2,Apr,FR - France,Mechanical/other,Wind - unknown,3 088,146 404,0,6 158,118,1 384,1 384,0,0,0
+EECS-Electricity,2021-05,2021,Qtr2,May,FR - France,Heat,Solar,714 527,363 365,2 315,293 598,294 354,27 585,3 537,0,0,0
+EECS-Electricity,2021-05,2021,Qtr2,May,FR - France,Mechanical/other,Hydro/marine,5 655 236,3 804 933,17 871,4 509 514,803 150,364 074,85 617,185 029,1 667 092,0
+EECS-Electricity,2021-05,2021,Qtr2,May,FR - France,Mechanical/other,Wind - offshore,2 430,7 758,0,5 079,0,0,0,0,0,0
+EECS-Electricity,2021-05,2021,Qtr2,May,FR - France,Mechanical/other,Wind - onshore,2 724 039,1 007 264,14 825,2 915 523,3 149 870,329 868,81 744,5 978,43 247,0
+EECS-Electricity,2021-05,2021,Qtr2,May,FR - France,Mechanical/other,Wind - unknown,3 583,209 842,111,6 088,8 669,0,0,0,5 355,0
+EECS-Electricity,2021-06,2021,Qtr2,Jun,FR - France,Heat,Solar,728 812,277 759,0,578 527,625 796,141 464,0,178 269,2 991,0
+EECS-Electricity,2021-06,2021,Qtr2,Jun,FR - France,Mechanical/other,Hydro/marine,5 803 184,3 817 901,53 890,3 801 554,568 917,1 589 234,258 723,336 561,1 413 976,0
+EECS-Electricity,2021-06,2021,Qtr2,Jun,FR - France,Mechanical/other,Wind - offshore,1 821,6 354,0,552,4 323,0,0,0,0,0
+EECS-Electricity,2021-06,2021,Qtr2,Jun,FR - France,Mechanical/other,Wind - onshore,928 813,577 769,9 488,2 548 794,2 931 906,837 970,34 750,946 560,163 977,0
+EECS-Electricity,2021-06,2021,Qtr2,Jun,FR - France,Mechanical/other,Wind - unknown,2 390,105 553,0,2 119,0,0,58 763,0,54 114,6 751
+EECS-Electricity,2021-07,2021,Qtr3,Jul,FR - France,Heat,Solar,891 748,248 792,0,685 304,729 569,149 036,0,0,3 775,0
+EECS-Electricity,2021-07,2021,Qtr3,Jul,FR - France,Mechanical/other,Hydro/marine,5 266 234,3 137 337,46 755,7 432 964,803 570,1 174 018,975 037,238 494,1 420 289,0
+EECS-Electricity,2021-07,2021,Qtr3,Jul,FR - France,Mechanical/other,Wind - offshore,2 003,5 638,0,1 219,0,0,0,0,0,0
+EECS-Electricity,2021-07,2021,Qtr3,Jul,FR - France,Mechanical/other,Wind - onshore,1 968 637,1 110 951,15 121,2 102 823,2 160 900,1 191 090,10 693,939,98 960,0
+EECS-Electricity,2021-07,2021,Qtr3,Jul,FR - France,Mechanical/other,Wind - unknown,2 769,131 166,0,7 932,716,90,3 975,0,5 140,0
+EECS-Electricity,2021-08,2021,Qtr3,Aug,FR - France,Heat,Solar,934 488,440 963,0,714 063,781 799,268 105,14 921,249 999,6 496,0
+EECS-Electricity,2021-08,2021,Qtr3,Aug,FR - France,Mechanical/other,Hydro/marine,4 053 408,2 977 186,38 511,4 036 089,610 581,3 505 371,4 816 675,169 022,637 825,0
+EECS-Electricity,2021-08,2021,Qtr3,Aug,FR - France,Mechanical/other,Wind - offshore,1 648,15 518,0,4 997,0,0,0,0,0,0
+EECS-Electricity,2021-08,2021,Qtr3,Aug,FR - France,Mechanical/other,Wind - onshore,1 976 389,875 817,12 941,2 753 851,3 053 032,1 472 145,766 793,656 604,746,0
+EECS-Electricity,2021-08,2021,Qtr3,Aug,FR - France,Mechanical/other,Wind - unknown,2 303,195 376,0,2 029,5 668,448,349 961,0,0,0
+EECS-Electricity,2021-09,2021,Qtr3,Sep,FR - France,Heat,Solar,724 365,551 840,273,727 123,757 657,0,120 377,155 166,110 015,0
+EECS-Electricity,2021-09,2021,Qtr3,Sep,FR - France,Mechanical/other,Hydro/marine,3 055 699,3 160 412,25 723,4 554 322,630 457,1 994 214,2 113 646,93 939,1 693 721,0
+EECS-Electricity,2021-09,2021,Qtr3,Sep,FR - France,Mechanical/other,Wind - offshore,1 255,12 945,0,0,4 754,0,0,0,524,0
+EECS-Electricity,2021-09,2021,Qtr3,Sep,FR - France,Mechanical/other,Wind - onshore,1 496 013,793 378,8 537,933 051,1 151 821,268 955,345 392,631 219,317 103,0
+EECS-Electricity,2021-09,2021,Qtr3,Sep,FR - France,Mechanical/other,Wind - unknown,1 721,80 312,0,825,2 215,0,151 560,0,142 874,6 751
+EECS-Electricity,2021-10,2021,Qtr4,Oct,FR - France,Heat,Solar,688 127,252 705,1,894 840,1 044 627,92 783,152 613,67 088,77 884,0
+EECS-Electricity,2021-10,2021,Qtr4,Oct,FR - France,Mechanical/other,Hydro/marine,2 507 212,3 252 225,48 912,4 795 810,916 530,2 161 461,2 115 102,34 850,1 353 347,0
+EECS-Electricity,2021-10,2021,Qtr4,Oct,FR - France,Mechanical/other,Wind - offshore,2 159,29 813,0,418,0,0,0,0,0,0
+EECS-Electricity,2021-10,2021,Qtr4,Oct,FR - France,Mechanical/other,Wind - onshore,3 194 536,1 360 532,14 270,1 935 518,3 189 101,701 280,621 678,85 693,121 926,0
+EECS-Electricity,2021-10,2021,Qtr4,Oct,FR - France,Mechanical/other,Wind - unknown,2 894,101 361,0,2 142,3 155,0,1 875,0,1 875,0
+EECS-Electricity,2021-11,2021,Qtr4,Nov,FR - France,Heat,Solar,366 709,281 488,0,937 784,988 711,1 285 526,705 126,4 538,83 037,0
+EECS-Electricity,2021-11,2021,Qtr4,Nov,FR - France,Mechanical/other,Hydro/marine,3 377 948,3 982 021,22 896,2 066 489,685 598,2 343 294,750 498,238 500,2 131 657,0
+EECS-Electricity,2021-11,2021,Qtr4,Nov,FR - France,Mechanical/other,Wind - offshore,2 696,4 944,0,4 258,4 031,0,0,0,0,0
+EECS-Electricity,2021-11,2021,Qtr4,Nov,FR - France,Mechanical/other,Wind - onshore,2 544 746,1 852 992,24 163,2 012 381,2 570 649,769 349,413 683,1 166 459,376 253,0
+EECS-Electricity,2021-11,2021,Qtr4,Nov,FR - France,Mechanical/other,Wind - unknown,4 631,118 518,177,3 680,801,4 231,182 858,0,12 648,0
+EECS-Electricity,2021-12,2021,Qtr4,Dec,FR - France,Heat,Solar,311 155,126 583,0,722 578,859 383,983 345,390 013,109 752,285 611,0
+EECS-Electricity,2021-12,2021,Qtr4,Dec,FR - France,Mechanical/other,Hydro/marine,4 584 117,4 721 705,24 951,2 976 139,2 579 827,3 045 670,2 068 120,208 169,6 071 314,170 882
+EECS-Electricity,2021-12,2021,Qtr4,Dec,FR - France,Mechanical/other,Wind - offshore,1 464,3 757,0,230,0,0,23 135,0,1 592,0
+EECS-Electricity,2021-12,2021,Qtr4,Dec,FR - France,Mechanical/other,Wind - onshore,4 018 818,1 825 940,0,1 527 731,2 056 504,1 552 680,429 004,618 049,1 424 348,6 749
+EECS-Electricity,2021-12,2021,Qtr4,Dec,FR - France,Mechanical/other,Wind - unknown,4 011,129 066,0,1 361,2 343,47,31 889,0,243 471,0
+EECS-Electricity,2022-01,2022,Qtr1,Jan,FR - France,Heat,Solar,456 443,528 212,0,688 737,819 197,1 061 313,936 647,0,307 699,0
+EECS-Electricity,2022-01,2022,Qtr1,Jan,FR - France,Mechanical/other,Hydro/marine,5 181 535,4 608 719,67 301,5 216 711,2 202 969,10 731 374,3 534 505,227 366,6 740 139,13 659
+EECS-Electricity,2022-01,2022,Qtr1,Jan,FR - France,Mechanical/other,Wind - offshore,1 529,3 972,0,296,0,0,33 638,0,58 811,0
+EECS-Electricity,2022-01,2022,Qtr1,Jan,FR - France,Mechanical/other,Wind - onshore,2 917 854,2 440 287,13 832,3 257 623,3 252 807,2 438 850,824 842,1 275,1 820 593,1 200
+EECS-Electricity,2022-01,2022,Qtr1,Jan,FR - France,Mechanical/other,Wind - unknown,6 254,263 026,430,5 907,1 729,7 426,159 880,0,190 855,9 000
+EECS-Electricity,2022-02,2022,Qtr1,Feb,FR - France,Heat,Solar,513 710,401 486,128,367 188,557 672,542 612,115 661,400,307 409,0
+EECS-Electricity,2022-02,2022,Qtr1,Feb,FR - France,Mechanical/other,Hydro/marine,3 790 633,3 946 326,23 969,3 422 216,1 161 223,3 443 139,7 063 883,54 827,3 982 750,0
+EECS-Electricity,2022-02,2022,Qtr1,Feb,FR - France,Mechanical/other,Wind - offshore,1 734,2 835,0,2 320,0,0,12 897,0,2 897,0
+EECS-Electricity,2022-02,2022,Qtr1,Feb,FR - France,Mechanical/other,Wind - onshore,4 696 497,2 086 679,9 400,2 500 923,3 065 712,4 599 127,1 515 094,1 281,1 102 649,20 450
+EECS-Electricity,2022-02,2022,Qtr1,Feb,FR - France,Mechanical/other,Wind - unknown,7 999,282 774,6 648,1 811,6 739,21 020,481 396,0,202 414,63 474
+EECS-Electricity,2022-03,2022,Qtr1,Mar,FR - France,Heat,Solar,756 777,551 878,1 596,311 104,488 927,832 921,294 997,3 664,1 418 701,0
+EECS-Electricity,2022-03,2022,Qtr1,Mar,FR - France,Mechanical/other,Hydro/marine,3 850 030,3 948 766,78 075,3 852 302,721 174,2 706 927,2 750 215,52 916,11 389 034,0
+EECS-Electricity,2022-03,2022,Qtr1,Mar,FR - France,Mechanical/other,Wind - offshore,1 995,62 545,0,3 703,5 183,0,11 173,0,35 921,0
+EECS-Electricity,2022-03,2022,Qtr1,Mar,FR - France,Mechanical/other,Wind - onshore,3 190 891,1 784 643,5 001,4 106 247,5 775 061,3 188 895,1 223 842,6 812,6 329 511,41 986
+EECS-Electricity,2022-03,2022,Qtr1,Mar,FR - France,Mechanical/other,Wind - unknown,5 596,234 490,416,7 495,43 429,71 684,300 536,0,432 807,502
+EECS-Electricity,2022-04,2022,Qtr2,Apr,FR - France,Heat,Solar,846 794,315 064,4,455 920,772 530,55 746,38 295,20 261,568 464,0
+EECS-Electricity,2022-04,2022,Qtr2,Apr,FR - France,Mechanical/other,Hydro/marine,4 460 143,3 702 795,33 549,5 349 352,901 165,1 058 392,2 465 001,65 624,6 376 685,50 001
+EECS-Electricity,2022-04,2022,Qtr2,Apr,FR - France,Mechanical/other,Wind - offshore,369,5 252,0,5 258,0,0,3 053,0,3 373,0
+EECS-Electricity,2022-04,2022,Qtr2,Apr,FR - France,Mechanical/other,Wind - onshore,3 085 398,1 646 215,1 684,2 990 456,3 173 119,516 787,244 447,28 820,2 220 924,11 700
+EECS-Electricity,2022-04,2022,Qtr2,Apr,FR - France,Mechanical/other,Wind - unknown,6 231,182 552,1 458,1 921,0,31 481,21 780,0,170 359,4 165
+EECS-Electricity,2022-05,2022,Qtr2,May,FR - France,Heat,Solar,1 315 520,974 708,241,516 545,581 459,172 293,40 913,4 696,160 407,14 350
+EECS-Electricity,2022-05,2022,Qtr2,May,FR - France,Mechanical/other,Hydro/marine,4 496 515,3 193 762,26 877,4 094 688,881 844,657 945,186 815,114 884,606 816,76 424
+EECS-Electricity,2022-05,2022,Qtr2,May,FR - France,Mechanical/other,Wind - offshore,262,6 365,0,369,1 255,0,0,0,4 762,0
+EECS-Electricity,2022-05,2022,Qtr2,May,FR - France,Mechanical/other,Wind - onshore,1 891 802,998 182,619,4 572 936,5 074 074,1 163 797,144 112,9 647,672 115,134
+EECS-Electricity,2022-05,2022,Qtr2,May,FR - France,Mechanical/other,Wind - unknown,4 069,150 904,2 543,4 080,3 744,16 930,96 495,111,82 122,46
+EECS-Electricity,2022-06,2022,Qtr2,Jun,FR - France,Heat,Solar,1 232 708,759 889,0,757 010,910 920,401 358,47 272,2 315,80 287,14 350
+EECS-Electricity,2022-06,2022,Qtr2,Jun,FR - France,Mechanical/other,Hydro/marine,3 406 818,3 067 053,2 281,3 308 632,665 358,577 931,1 137 749,18 423,1 975 642,40 950
+EECS-Electricity,2022-06,2022,Qtr2,Jun,FR - France,Mechanical/other,Wind - offshore,265,5 248,0,262,0,1,0,0,0,0
+EECS-Electricity,2022-06,2022,Qtr2,Jun,FR - France,Mechanical/other,Wind - onshore,1 583 951,816 215,0,3 197 036,3 922 127,1 322 583,99 395,14 825,279 030,0
+EECS-Electricity,2022-06,2022,Qtr2,Jun,FR - France,Mechanical/other,Wind - unknown,3 577,126 947,859,13 172,0,15 526,1 893,0,5 449,0
+EECS-Electricity,2022-07,2022,Qtr3,Jul,FR - France,Heat,Solar,1 426 510,1 095 019,0,842 820,942 335,337 402,129 261,0,161 858,0
+EECS-Electricity,2022-07,2022,Qtr3,Jul,FR - France,Mechanical/other,Hydro/marine,2 986 899,2 734 001,0,5 091 943,945 062,4 384 376,851 256,51 945,2 609 205,50 950
+EECS-Electricity,2022-07,2022,Qtr3,Jul,FR - France,Mechanical/other,Wind - offshore,354,19 782,0,265,369,0,0,0,0,0
+EECS-Electricity,2022-07,2022,Qtr3,Jul,FR - France,Mechanical/other,Wind - onshore,1 472 050,743 182,0,3 088 072,3 572 648,2 568 204,789 695,9 548,285 306,0
+EECS-Electricity,2022-07,2022,Qtr3,Jul,FR - France,Mechanical/other,Wind - unknown,3 401,135 285,0,4 687,4 720,38 057,20 498,0,59 004,0
+EECS-Electricity,2022-08,2022,Qtr3,Aug,FR - France,Heat,Solar,1 276 905,916 791,0,1 310 047,1 459 381,1 388 060,103 923,0,47 277,0
+EECS-Electricity,2022-08,2022,Qtr3,Aug,FR - France,Mechanical/other,Hydro/marine,2 226 201,1 558 994,0,2 509 711,912 765,2 373 037,2 107 377,46 802,202 878,21 270
+EECS-Electricity,2022-08,2022,Qtr3,Aug,FR - France,Mechanical/other,Wind - offshore,218,5 054,0,0,0,1 603,0,0,0,0
+EECS-Electricity,2022-08,2022,Qtr3,Aug,FR - France,Mechanical/other,Wind - onshore,1 683 399,946 396,0,1 849 372,2 178 009,2 032 631,405 042,15 952,47 935,0
+EECS-Electricity,2022-08,2022,Qtr3,Aug,FR - France,Mechanical/other,Wind - unknown,3 322,137 180,0,3 570,4 846,3 661,7 148,0,2 275,0
+EECS-Electricity,2022-09,2022,Qtr3,Sep,FR - France,Heat,Solar,970 934,482 124,0,1 226 261,1 417 853,281 870,73 869,0,250 444,0
+EECS-Electricity,2022-09,2022,Qtr3,Sep,FR - France,Mechanical/other,Hydro/marine,1 960 528,1 765 628,0,3 004 220,1 078 793,748 769,3 867 817,38 284,1 862 989,10 950
+EECS-Electricity,2022-09,2022,Qtr3,Sep,FR - France,Mechanical/other,Wind - offshore,377,3 401,0,354,0,0,11 182,0,0,0
+EECS-Electricity,2022-09,2022,Qtr3,Sep,FR - France,Mechanical/other,Wind - onshore,1 966 497,1 266 315,0,1 525 986,1 779 821,1 885 666,702 274,12 050,392 950,14 350
+EECS-Electricity,2022-09,2022,Qtr3,Sep,FR - France,Mechanical/other,Wind - unknown,3 863,170 656,0,522,0,1 173,590 369,0,1 797,0
+EECS-Electricity,2022-10,2022,Qtr4,Oct,FR - France,Heat,Solar,667 432,395 625,0,1 417 251,2 035 349,774 683,1 027 520,273,329 819,0
+EECS-Electricity,2022-10,2022,Qtr4,Oct,FR - France,Mechanical/other,Hydro/marine,2 434 087,2 025 659,0,1 953 041,570 271,1 374 076,2 473 784,25 648,1 819 737,10 950
+EECS-Electricity,2022-10,2022,Qtr4,Oct,FR - France,Mechanical/other,Wind - offshore,550,3 886,0,0,527,0,4 771,0,0,0
+EECS-Electricity,2022-10,2022,Qtr4,Oct,FR - France,Mechanical/other,Wind - onshore,2 976 878,1 526 483,0,1 452 830,1 838 933,4 036 920,1 493 092,8 537,297 815,0
+EECS-Electricity,2022-10,2022,Qtr4,Oct,FR - France,Mechanical/other,Wind - unknown,4 077,105 525,0,1 571,12 440,11 668,472 546,0,16 565,0
+EECS-Electricity,2022-11,2022,Qtr4,Nov,FR - France,Heat,Solar,424 529,242 832,0,1 274 500,2 073 487,1 810 361,709 932,1,730 767,0
+EECS-Electricity,2022-11,2022,Qtr4,Nov,FR - France,Mechanical/other,Hydro/marine,3 174 356,2 103 091,0,2 469 163,494 083,3 215 634,954 904,49 539,446 548,20 950
+EECS-Electricity,2022-11,2022,Qtr4,Nov,FR - France,Mechanical/other,Wind - offshore,847,10 465,0,0,0,928,4 626,0,4 138,0
+EECS-Electricity,2022-11,2022,Qtr4,Nov,FR - France,Mechanical/other,Wind - onshore,4 138 246,1 840 910,0,1 608 028,2 151 640,1 581 543,759 799,14 270,1 012 887,0
+EECS-Electricity,2022-11,2022,Qtr4,Nov,FR - France,Mechanical/other,Wind - unknown,10 252,185 991,0,261,1 456,15 136,79 333,0,31 368,0
+EECS-Electricity,2022-12,2022,Qtr4,Dec,FR - France,Heat,Solar,297 726,283 560,0,976 356,1 270 292,397 121,263 379,0,339 015,67 319
+EECS-Electricity,2022-12,2022,Qtr4,Dec,FR - France,Mechanical/other,Hydro/marine,4 420 053,2 131 602,0,2 254 249,1 046 015,1 348 322,1 100 140,26 448,2 748 115,21 717
+EECS-Electricity,2022-12,2022,Qtr4,Dec,FR - France,Mechanical/other,Wind - offshore,827,9 714,0,595,2 552,0,2 095,0,1 868,0
+EECS-Electricity,2022-12,2022,Qtr4,Dec,FR - France,Mechanical/other,Wind - onshore,3 856 891,2 129 759,0,2 052 533,2 622 754,1 283 650,840 096,24 163,1 884 160,85 089
+EECS-Electricity,2022-12,2022,Qtr4,Dec,FR - France,Mechanical/other,Wind - unknown,8 985,231 825,0,2 706,7 642,22 955,62 502,177,346 669,5 650
+EECS-Electricity,2023-01,2023,Qtr1,Jan,FR - France,Heat,Solar,347 440,603,0,680 762,747 966,682 153,729 738,0,654 844,0
+EECS-Electricity,2023-01,2023,Qtr1,Jan,FR - France,Mechanical/other,Hydro/marine,5 633 993,2 186 684,0,5 461 767,1 064 893,8 739 910,2 036 480,31 054,5 710 205,106 388
+EECS-Electricity,2023-01,2023,Qtr1,Jan,FR - France,Mechanical/other,Wind - offshore,791,0,0,550,0,75 000,100 260,0,34 212,0
+EECS-Electricity,2023-01,2023,Qtr1,Jan,FR - France,Mechanical/other,Wind - onshore,5 055 179,96 889,0,3 042 796,2 806 412,1 143 408,1 231 868,0,2 705 307,34 950
+EECS-Electricity,2023-01,2023,Qtr1,Jan,FR - France,Mechanical/other,Wind - unknown,61 088,0,0,9 540,88,145 097,310 116,430,433 844,9 195
+EECS-Electricity,2023-02,2023,Qtr1,Feb,FR - France,Heat,Solar,683 201,596,0,417 919,814 236,903 798,756 161,0,597 436,0
+EECS-Electricity,2023-02,2023,Qtr1,Feb,FR - France,Mechanical/other,Hydro/marine,3 065 096,1 654 974,0,5 038 926,629 212,3 842 328,4 235 095,58 152,3 905 591,10 950
+EECS-Electricity,2023-02,2023,Qtr1,Feb,FR - France,Mechanical/other,Wind - offshore,390,0,0,1 674,2 224,0,132 680,0,12 426,0
+EECS-Electricity,2023-02,2023,Qtr1,Feb,FR - France,Mechanical/other,Wind - onshore,2 742 109,176 046,0,4 021 842,5 046 883,4 137 520,2 984 394,13 832,2 947 075,56
+EECS-Electricity,2023-02,2023,Qtr1,Feb,FR - France,Mechanical/other,Wind - unknown,11 516,0,0,2 431,10 110,22 069,143 275,6 648,174 208,344
+EECS-Electricity,2023-03,2023,Qtr1,Mar,FR - France,Heat,Solar,884 166,803,0,300 750,854 596,816 381,1 015 413,128,1 856 976,0
+EECS-Electricity,2023-03,2023,Qtr1,Mar,FR - France,Mechanical/other,Hydro/marine,4 139 935,1 690 371,0,3 403 081,1 102 616,1 395 238,7 660 393,68 417,6 478 792,10 500
+EECS-Electricity,2023-03,2023,Qtr1,Mar,FR - France,Mechanical/other,Wind - offshore,465,0,0,0,0,45 268,2 798,0,58 563,0
+EECS-Electricity,2023-03,2023,Qtr1,Mar,FR - France,Mechanical/other,Wind - onshore,4 815 498,158 454,0,4 479 850,4 850 530,4 024 418,2 816 448,9 510,4 919 790,0
+EECS-Electricity,2023-03,2023,Qtr1,Mar,FR - France,Mechanical/other,Wind - unknown,13 978,540,0,17 072,12 545,71 081,1 045 088,0,245 445,0
+EECS-Electricity,2023-04,2023,Qtr2,Apr,FR - France,Heat,Solar,40 653,0,0,352 197,396 523,298 493,172 678,1 596,1 211 364,0
+EECS-Electricity,2023-04,2023,Qtr2,Apr,FR - France,Mechanical/other,Hydro/marine,3 724 993,1 320 751,0,4 179 902,899 984,1 150 254,873 444,32 896,2 009 614,27 581
+EECS-Electricity,2023-04,2023,Qtr2,Apr,FR - France,Mechanical/other,Wind - offshore,88,0,0,0,0,18,6 723,0,23 602,0
+EECS-Electricity,2023-04,2023,Qtr2,Apr,FR - France,Mechanical/other,Wind - onshore,457 745,71 308,0,4 344 534,4 545 138,1 559 808,310 646,4 891,1 363 100,11 650
+EECS-Electricity,2023-04,2023,Qtr2,Apr,FR - France,Mechanical/other,Wind - unknown,6 122,0,0,25 381,8 608,18 179,57 585,990,100 092,0
+EECS-Electricity,2023-05,2023,Qtr2,May,FR - France,Heat,Solar,16 761,0,0,696 935,923 351,285 892,199 775,4,240 295,3
+EECS-Electricity,2023-05,2023,Qtr2,May,FR - France,Mechanical/other,Hydro/marine,3 319 245,132 580,0,4 089 499,1 446 259,2 525 173,1 388 108,36 699,2 383 500,61 160
+EECS-Electricity,2023-05,2023,Qtr2,May,FR - France,Mechanical/other,Wind - offshore,545,0,0,1 734,0,79,854,0,928,0
+EECS-Electricity,2023-05,2023,Qtr2,May,FR - France,Mechanical/other,Wind - onshore,294 172,0,0,3 421 807,3 152 056,1 095 003,354 337,1 684,669 534,0
+EECS-Electricity,2023-05,2023,Qtr2,May,FR - France,Mechanical/other,Wind - unknown,1 067,0,0,14 784,16 406,5 000,6 699,3 427,59 454,0

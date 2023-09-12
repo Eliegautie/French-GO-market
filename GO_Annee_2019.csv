@@ -1,0 +1,370 @@
+Région / Region,Technologie / Technology,Total Volume Auctionned,Total Volume Sold,Weighted Average Price (€ / MWh),My Total Volume,My Weighted Average Price (€ / MWh),Number of winners per couple region/technology
+Bourgogne-Franche-Comté,Eolien onshore,110450,110450,"0,35",-,-,2
+Nouvelle-Aquitaine,Eolien onshore,64387,64387,"0,34",-,-,4
+Île-de-France,Eolien onshore,8096,8096,"0,3",-,-,1
+Bretagne,Eolien onshore,124343,124343,"0,35",-,-,5
+Provence-Alpes-Côte d'Azur,Eolien onshore,5171,5171,"0,35",-,-,1
+Auvergne-Rhône-Alpes,Eolien onshore,78803,78803,"0,35",-,-,1
+Occitanie,Eolien onshore,168407,168407,"0,27",-,-,2
+Normandie,Eolien onshore,120912,120912,"0,29",-,-,2
+Pays de la Loire,Eolien onshore,119624,119624,"0,27",-,-,1
+Centre-Val de Loire,Eolien onshore,141353,141353,"0,34",-,-,3
+Grand Est,Eolien onshore,531533,531533,"0,31",-,-,3
+Haut-de-France,Eolien onshore,566308,566308,"0,3",-,-,3
+Pays de la Loire,Hydraulique,1554,1554,"0,22",-,-,1
+Normandie,Hydraulique,3065,3065,"0,22",-,-,1
+Centre-Val de Loire,Hydraulique,1679,1679,"0,22",-,-,1
+Auvergne-Rhône-Alpes,Hydraulique,72329,72329,"0,27",-,-,5
+Bretagne,Hydraulique,1918,1918,"0,22",-,-,1
+Bourgogne-Franche-Comté,Hydraulique,16487,16487,"0,28",-,-,2
+Île-de-France,Hydraulique,721,721,"0,22",-,-,1
+Provence-Alpes-Côte d'Azur,Hydraulique,11445,11445,"0,24",-,-,3
+Haut-de-France,Hydraulique,659,659,"0,22",-,-,1
+Grand Est,Hydraulique,18650,18650,"0,26",-,-,2
+Occitanie,Hydraulique,76070,76070,"0,24",-,-,3
+Nouvelle-Aquitaine,Hydraulique,46233,46233,"0,27",-,-,3
+Auvergne-Rhône-Alpes,Solaire,18906,18906,"0,32",-,-,3
+Centre-Val de Loire,Solaire,5592,5592,"0,28",-,-,1
+Pays de la Loire,Solaire,7032,7032,"0,28",-,-,1
+Grand Est,Solaire,11103,11103,"0,28",-,-,2
+Provence-Alpes-Côte d'Azur,Solaire,40833,40833,"0,28",-,-,2
+Île-de-France,Solaire,372,372,"0,96",-,-,2
+Occitanie,Solaire,39228,39228,"0,32",-,-,2
+Bretagne,Solaire,1645,1645,"0,3",-,-,1
+Bourgogne-Franche-Comté,Solaire,7806,7806,"0,28",-,-,1
+Nouvelle-Aquitaine,Solaire,60417,60417,"0,3",-,-,1
+Haut-de-France,Solaire,1234,1234,"0,31",-,-,2
+Normandie,Solaire,1424,1424,"0,3",-,-,1
+,,,,,,,
+Auvergne-Rhône-Alpes,Eolien onshore,59529,59529,"0,78",-,-,8
+Pays de la Loire,Eolien onshore,66894,66894,"0,7",-,-,5
+Île-de-France,Eolien onshore,4312,4312,"0,77",-,-,2
+Occitanie,Eolien onshore,142346,142346,"0,73",-,-,7
+Nouvelle-Aquitaine,Eolien onshore,34380,34380,"0,61",-,-,8
+Grand Est,Eolien onshore,244520,244520,"0,52",-,-,10
+Bourgogne-Franche-Comté,Eolien onshore,52420,52420,"0,76",-,-,6
+Centre-Val de Loire,Eolien onshore,70497,70497,"0,47",-,-,6
+Bretagne,Eolien onshore,66592,66592,"0,59",-,-,6
+Provence-Alpes-Côte d'Azur,Eolien onshore,4952,4952,"0,38",-,-,2
+Haut-de-France,Eolien onshore,253275,253275,"0,68",-,-,9
+Normandie,Eolien onshore,55367,55367,"0,42",-,-,5
+Occitanie,Hydraulique,77803,77803,"0,31",-,-,10
+Haut-de-France,Hydraulique,700,700,"0,54",-,-,2
+Centre-Val de Loire,Hydraulique,482,482,"0,32",-,-,2
+Auvergne-Rhône-Alpes,Hydraulique,69936,69936,"0,39",-,-,8
+Nouvelle-Aquitaine,Hydraulique,40756,40756,"0,31",-,-,7
+Pays de la Loire,Hydraulique,1073,1073,"0,83",-,-,2
+Bretagne,Hydraulique,1222,1222,"0,29",-,-,3
+Bourgogne-Franche-Comté,Hydraulique,10549,10549,"0,37",-,-,4
+Grand Est,Hydraulique,12298,12298,"0,25",-,-,2
+Île-de-France,Hydraulique,678,678,"0,42",-,-,3
+Provence-Alpes-Côte d'Azur,Hydraulique,17960,17960,"0,51",-,-,2
+Normandie,Hydraulique,2174,2174,"0,97",-,-,3
+Normandie,Solaire,2165,2165,"1,56",-,-,2
+Bourgogne-Franche-Comté,Solaire,8868,8868,"0,78",-,-,3
+Auvergne-Rhône-Alpes,Solaire,19591,19591,"1,3",-,-,3
+Occitanie,Solaire,38110,38110,"1,38",-,-,4
+Nouvelle-Aquitaine,Solaire,61314,61314,"1,01",-,-,6
+Île-de-France,Solaire,522,522,"1,51",-,-,2
+Bretagne,Solaire,2098,2098,"1,29",-,-,2
+Haut-de-France,Solaire,1905,1905,"1,2",-,-,3
+Grand Est,Solaire,13081,13081,"0,55",-,-,3
+Provence-Alpes-Côte d'Azur,Solaire,37619,37619,"0,89",-,-,7
+Pays de la Loire,Solaire,8401,8401,"1,36",-,-,2
+Centre-Val de Loire,Solaire,7068,7068,"0,59",-,-,3
+,,,,,,,
+Auvergne-Rhône-Alpes,Eolien onshore,68217,68217,"0,63",-,-,4
+Bourgogne-Franche-Comté,Eolien onshore,55614,55614,"0,53",-,-,4
+Bretagne,Eolien onshore,51365,51365,"0,51",-,-,2
+Centre-Val de Loire,Eolien onshore,69169,69169,"0,57",-,-,3
+Grand Est,Eolien onshore,221831,221831,"0,51",-,-,5
+Haut-de-France,Eolien onshore,235398,235398,"0,45",-,-,7
+Île-de-France,Eolien onshore,4598,4598,"0,5",-,-,1
+Normandie,Eolien onshore,44766,44766,"0,46",-,-,3
+Nouvelle-Aquitaine,Eolien onshore,36711,36711,"0,43",-,-,4
+Occitanie,Eolien onshore,161929,161929,"0,69",-,-,5
+Pays de la Loire,Eolien onshore,62269,62269,"0,54",-,-,2
+Provence-Alpes-Côte d'Azur,Eolien onshore,5982,5982,"0,55",-,-,3
+Auvergne-Rhône-Alpes,Hydraulique,95025,95025,"0,35",-,-,9
+Bourgogne-Franche-Comté,Hydraulique,10384,10384,"0,31",-,-,2
+Bretagne,Hydraulique,660,660,"0,3",-,-,2
+Centre-Val de Loire,Hydraulique,625,625,"0,3",-,-,2
+Grand Est,Hydraulique,12821,12821,"0,3",-,-,2
+Haut-de-France,Hydraulique,439,439,"0,32",-,-,2
+Île-de-France,Hydraulique,663,663,"0,3",-,-,2
+Normandie,Hydraulique,1168,1168,"0,33",-,-,2
+Nouvelle-Aquitaine,Hydraulique,45806,45806,"0,31",-,-,4
+Occitanie,Hydraulique,94675,94675,"0,29",-,-,4
+Pays de la Loire,Hydraulique,673,673,"0,34",-,-,2
+Provence-Alpes-Côte d'Azur,Hydraulique,27854,27854,"0,36",-,-,6
+Auvergne-Rhône-Alpes,Solaire,23216,23216,"1,04",-,-,8
+Bourgogne-Franche-Comté,Solaire,10324,10324,"0,63",-,-,3
+Bretagne,Solaire,2470,2470,"0,46",-,-,3
+Centre-Val de Loire,Solaire,7303,7303,"0,4",-,-,2
+Grand Est,Solaire,16012,16012,"0,42",-,-,4
+Haut-de-France,Solaire,2284,2284,"0,4",-,-,2
+Île-de-France,Solaire,460,460,"0,93",-,-,2
+Normandie,Solaire,2461,2461,"0,89",-,-,3
+Nouvelle-Aquitaine,Solaire,73305,73305,"0,67",-,-,3
+Occitanie,Solaire,47537,47537,"0,58",-,-,4
+Pays de la Loire,Solaire,9695,9695,"0,8",-,-,4
+Provence-Alpes-Côte d'Azur,Solaire,45282,45282,"0,75",-,-,6
+,,,,,,,
+Auvergne-Rhône-Alpes,Eolien onshore,39104,39104,"0,63",-,-,2
+Bourgogne-Franche-Comté,Eolien onshore,44539,44539,"0,56",-,-,3
+Bretagne,Eolien onshore,45956,45956,"0,52",-,-,2
+Centre-Val de Loire,Eolien onshore,59029,59029,"0,52",-,-,2
+Grand Est,Eolien onshore,200170,200170,"0,49",-,-,4
+Haut-de-France,Eolien onshore,247397,247397,"0,51",-,-,7
+Île-de-France,Eolien onshore,3909,3909,"0,5",-,-,1
+Normandie,Eolien onshore,46442,46442,"0,37",-,-,3
+Nouvelle-Aquitaine,Eolien onshore,24622,24622,"0,55",-,-,3
+Occitanie,Eolien onshore,91054,91054,"0,67",-,-,5
+Pays de la Loire,Eolien onshore,50961,50961,"0,53",-,-,2
+Provence-Alpes-Côte d'Azur,Eolien onshore,2495,2495,"0,51",-,-,3
+Auvergne-Rhône-Alpes,Hydraulique,88207,88207,"0,34",-,-,5
+Bourgogne-Franche-Comté,Hydraulique,5915,5915,"0,3",-,-,2
+Bretagne,Hydraulique,561,561,"0,3",-,-,2
+Centre-Val de Loire,Hydraulique,411,411,"0,3",-,-,2
+Grand Est,Hydraulique,5971,5971,"0,3",-,-,1
+Haut-de-France,Hydraulique,429,429,"0,31",-,-,2
+Île-de-France,Hydraulique,383,383,"0,31",-,-,2
+Normandie,Hydraulique,980,980,"0,33",-,-,2
+Nouvelle-Aquitaine,Hydraulique,33804,33804,"0,31",-,-,4
+Occitanie,Hydraulique,74606,74606,"0,34",-,-,2
+Pays de la Loire,Hydraulique,476,476,"0,32",-,-,2
+Provence-Alpes-Côte d'Azur,Hydraulique,27046,27046,"0,32",-,-,2
+Auvergne-Rhône-Alpes,Solaire,25200,25200,"0,85",-,-,5
+Bourgogne-Franche-Comté,Solaire,10851,10851,"0,54",-,-,3
+Bretagne,Solaire,2337,2337,"0,51",-,-,3
+Centre-Val de Loire,Solaire,7873,7873,"0,36",-,-,2
+Grand Est,Solaire,18370,18370,"0,43",-,-,6
+Haut-de-France,Solaire,2446,2446,"0,61",-,-,3
+Île-de-France,Solaire,627,627,"0,74",-,-,2
+Normandie,Solaire,2457,2457,"0,92",-,-,3
+Nouvelle-Aquitaine,Solaire,77369,77369,"0,65",-,-,7
+Occitanie,Solaire,49835,49835,"0,49",-,-,4
+Pays de la Loire,Solaire,10023,10023,"0,77",-,-,3
+Provence-Alpes-Côte d'Azur,Solaire,47987,47987,"0,7",-,-,5
+,,,,,,,
+Bourgogne-Franche-Comté,Eolien onshore,40771,40771,"0,33",-,-,2
+Pays de la Loire,Eolien onshore,53052,53052,"0,29",-,-,5
+Haut-de-France,Eolien onshore,209325,209325,"0,33",-,-,5
+Auvergne-Rhône-Alpes,Eolien onshore,32743,32743,"0,32",-,-,5
+Grand Est,Eolien onshore,171929,171929,"0,3",-,-,6
+Île-de-France,Eolien onshore,4140,4140,"0,36",-,-,2
+Centre-Val de Loire,Eolien onshore,57864,57864,"0,29",-,-,4
+Occitanie,Eolien onshore,86545,86545,"0,32",-,-,5
+Nouvelle-Aquitaine,Eolien onshore,27290,27290,"0,33",-,-,3
+Bretagne,Eolien onshore,50798,50798,"0,3",-,-,4
+Provence-Alpes-Côte d'Azur,Eolien onshore,2442,2442,"0,3",-,-,3
+Normandie,Eolien onshore,39194,39194,"0,31",-,-,5
+Nouvelle-Aquitaine,Hydraulique,12600,12600,"0,28",-,-,2
+Pays de la Loire,Hydraulique,12,12,"0,25",-,-,1
+Normandie,Hydraulique,543,543,"0,25",-,-,1
+Auvergne-Rhône-Alpes,Hydraulique,62070,62070,"0,29",-,-,6
+Centre-Val de Loire,Hydraulique,42,42,"0,25",-,-,1
+Bretagne,Hydraulique,235,235,"0,25",-,-,1
+Île-de-France,Hydraulique,151,151,"0,25",-,-,1
+Bourgogne-Franche-Comté,Hydraulique,2845,2845,"0,25",-,-,1
+Haut-de-France,Hydraulique,140,140,"0,25",-,-,1
+Grand Est,Hydraulique,5962,5962,"0,28",-,-,2
+Occitanie,Hydraulique,40013,40013,"0,27",-,-,3
+Provence-Alpes-Côte d'Azur,Hydraulique,21459,21459,"0,26",-,-,2
+Auvergne-Rhône-Alpes,Solaire,27696,27696,"0,53",-,-,3
+Grand Est,Solaire,18577,18577,"0,29",-,-,4
+Occitanie,Solaire,52428,52428,"0,44",-,-,4
+Centre-Val de Loire,Solaire,9139,9139,"0,39",-,-,2
+Île-de-France,Solaire,717,717,"0,54",-,-,2
+Bretagne,Solaire,2816,2816,"0,4",-,-,2
+Haut-de-France,Solaire,2392,2392,"0,41",-,-,3
+Bourgogne-Franche-Comté,Solaire,12184,12184,"0,25",-,-,1
+Normandie,Solaire,2770,2770,"0,41",-,-,3
+Provence-Alpes-Côte d'Azur,Solaire,48472,48472,"0,38",-,-,4
+Pays de la Loire,Solaire,10905,10905,"0,41",-,-,2
+Nouvelle-Aquitaine,Solaire,85979,85979,"0,39",-,-,4
+,,,,,,,
+Bourgogne-Franche-Comté,Eolien onshore,35225,35225,"0,32",-,-,2
+Nouvelle-Aquitaine,Eolien onshore,37379,37379,"0,31",-,-,4
+Auvergne-Rhône-Alpes,Eolien onshore,31737,31737,"0,33",-,-,5
+Centre-Val de Loire,Eolien onshore,55870,55870,"0,29",-,-,5
+Occitanie,Eolien onshore,64334,64334,"0,35",-,-,6
+Île-de-France,Eolien onshore,3893,3893,"0,35",-,-,2
+Normandie,Eolien onshore,44158,44158,"0,32",-,-,4
+Grand Est,Eolien onshore,158607,158607,"0,3",-,-,7
+Haut-de-France,Eolien onshore,214117,214117,"0,32",-,-,4
+Provence-Alpes-Côte d'Azur,Eolien onshore,2776,2776,"0,3",-,-,2
+Pays de la Loire,Eolien onshore,49039,49039,"0,31",-,-,4
+Bretagne,Eolien onshore,53079,53079,"0,29",-,-,7
+Île-de-France,Hydraulique,112,112,"0,25",-,-,2
+Pays de la Loire,Hydraulique,10,10,"0,25",-,-,1
+Normandie,Hydraulique,668,668,"0,26",-,-,1
+Centre-Val de Loire,Hydraulique,38,38,"0,25",-,-,1
+Bretagne,Hydraulique,276,276,"0,26",-,-,1
+Auvergne-Rhône-Alpes,Hydraulique,44051,44051,"0,31",-,-,7
+Bourgogne-Franche-Comté,Hydraulique,3831,3831,"0,25",-,-,1
+Haut-de-France,Hydraulique,53,53,"0,25",-,-,1
+Grand Est,Hydraulique,6752,6752,"0,28",-,-,2
+Occitanie,Hydraulique,28581,28581,"0,26",-,-,3
+Nouvelle-Aquitaine,Hydraulique,9457,9457,"0,26",-,-,1
+Provence-Alpes-Côte d'Azur,Hydraulique,13223,13223,"0,26",-,-,2
+Occitanie,Solaire,48467,48467,"0,44",-,-,4
+Auvergne-Rhône-Alpes,Solaire,24825,24825,"0,52",-,-,4
+Grand Est,Solaire,16556,16556,"0,36",-,-,5
+Nouvelle-Aquitaine,Solaire,77971,77971,"0,41",-,-,6
+Centre-Val de Loire,Solaire,7755,7755,"0,39",-,-,2
+Île-de-France,Solaire,563,563,"0,53",-,-,2
+Bretagne,Solaire,2201,2201,"0,4",-,-,2
+Haut-de-France,Solaire,2091,2091,"0,41",-,-,3
+Bourgogne-Franche-Comté,Solaire,10914,10914,"0,35",-,-,1
+Normandie,Solaire,2268,2268,"0,41",-,-,3
+Provence-Alpes-Côte d'Azur,Solaire,44820,44820,"0,43",-,-,4
+Pays de la Loire,Solaire,8914,8914,"0,41",-,-,2
+,,,,,,,
+Pays de la Loire,Eolien onshore,82660,82660,"0,18",-,-,5
+Nouvelle-Aquitaine,Eolien onshore,73645,73645,"0,16",-,-,4
+Île-de-France,Eolien onshore,6099,6099,"0,28",-,-,1
+Occitanie,Eolien onshore,98648,98648,"0,23",-,-,6
+Bretagne,Eolien onshore,81844,81844,"0,28",-,-,5
+Provence-Alpes-Côte d'Azur,Eolien onshore,3364,3364,"0,28",-,-,1
+Grand Est,Eolien onshore,279722,279722,"0,26",-,-,7
+Auvergne-Rhône-Alpes,Eolien onshore,41974,41974,"0,3",-,-,3
+Haut-de-France,Eolien onshore,338698,338698,"0,2",-,-,10
+Bourgogne-Franche-Comté,Eolien onshore,58837,58837,"0,28",-,-,4
+Centre-Val de Loire,Eolien onshore,90362,90362,"0,28",-,-,3
+Normandie,Eolien onshore,67810,67810,"0,17",-,-,5
+Occitanie,Hydraulique,19509,19509,"0,25",-,-,4
+Île-de-France,Hydraulique,129,129,"0,24",-,-,2
+Pays de la Loire,Hydraulique,2,2,"0,24",-,-,1
+Centre-Val de Loire,Hydraulique,38,38,"0,24",-,-,1
+Bretagne,Hydraulique,449,449,"0,24",-,-,1
+Bourgogne-Franche-Comté,Hydraulique,1686,1686,"0,24",-,-,2
+Auvergne-Rhône-Alpes,Hydraulique,28619,28619,"0,24",-,-,2
+Normandie,Hydraulique,659,659,"0,24",-,-,2
+Provence-Alpes-Côte d'Azur,Hydraulique,8344,8344,"0,25",-,-,3
+Haut-de-France,Hydraulique,26,26,"0,24",-,-,1
+Grand Est,Hydraulique,5154,5154,"0,24",-,-,2
+Nouvelle-Aquitaine,Hydraulique,8371,8371,"0,24",-,-,3
+Normandie,Solaire,1622,1622,"0,15",-,-,2
+Auvergne-Rhône-Alpes,Solaire,19911,19911,"0,27",-,-,6
+Provence-Alpes-Côte d'Azur,Solaire,37786,37786,"0,16",-,-,5
+Centre-Val de Loire,Solaire,6214,6214,"0,27",-,-,2
+Occitanie,Solaire,38312,38312,"0,18",-,-,5
+Nouvelle-Aquitaine,Solaire,61579,61579,"0,19",-,-,3
+Île-de-France,Solaire,439,439,"0,33",-,-,2
+Grand Est,Solaire,12800,12800,"0,25",-,-,3
+Bretagne,Solaire,1681,1681,"0,15",-,-,1
+Bourgogne-Franche-Comté,Solaire,9064,9064,"0,15",-,-,1
+Pays de la Loire,Solaire,7243,7243,"0,22",-,-,4
+Haut-de-France,Solaire,1528,1528,"0,15",-,-,2
+,,,,,,,
+Auvergne-Rhône-Alpes,Eolien onshore,67588,60750,"0,2",-,-,5
+Bourgogne-Franche-Comté,Eolien onshore,81587,81587,"0,15",-,-,3
+Bretagne,Eolien onshore,90073,90073,"0,13",-,-,4
+Centre-Val de Loire,Eolien onshore,109332,109332,"0,12",-,-,4
+Grand Est,Eolien onshore,386451,161782,"0,13",-,-,7
+Haut-de-France,Eolien onshore,437174,47636,"0,24",-,-,4
+Île-de-France,Eolien onshore,7010,-,-,-,-,-
+Normandie,Eolien onshore,91387,5470,"0,15",-,-,3
+Nouvelle-Aquitaine,Eolien onshore,71802,5848,"0,23",-,-,3
+Occitanie,Eolien onshore,127916,16276,"0,21",-,-,4
+Pays de la Loire,Eolien onshore,79368,4165,"0,17",-,-,2
+Provence-Alpes-Côte d'Azur,Eolien onshore,4088,-,-,-,-,-
+Auvergne-Rhône-Alpes,Hydraulique,47499,37212,"0,18",-,-,6
+Bourgogne-Franche-Comté,Hydraulique,9256,812,"0,16",-,-,2
+Bretagne,Hydraulique,998,-,-,-,-,-
+Centre-Val de Loire,Hydraulique,300,-,-,-,-,-
+Grand Est,Hydraulique,11083,11083,"0,13",-,-,2
+Haut-de-France,Hydraulique,258,-,-,-,-,-
+Île-de-France,Hydraulique,247,109,"0,16",-,-,1
+Normandie,Hydraulique,1334,1334,"0,24",-,-,2
+Nouvelle-Aquitaine,Hydraulique,14734,6649,"0,14",-,-,3
+Occitanie,Hydraulique,31257,2666,"0,18",-,-,2
+Pays de la Loire,Hydraulique,267,-,-,-,-,-
+Provence-Alpes-Côte d'Azur,Hydraulique,16999,7484,"0,15",-,-,3
+Auvergne-Rhône-Alpes,Solaire,11739,11739,"0,11",-,-,4
+Bourgogne-Franche-Comté,Solaire,4339,4339,"0,1",-,-,1
+Bretagne,Solaire,949,949,"0,17",-,-,2
+Centre-Val de Loire,Solaire,3193,3193,"0,18",-,-,2
+Grand Est,Solaire,6586,6586,"0,1",-,-,2
+Haut-de-France,Solaire,894,894,"0,1",-,-,2
+Île-de-France,Solaire,228,228,"0,16",-,-,2
+Normandie,Solaire,876,876,"0,1",-,-,1
+Nouvelle-Aquitaine,Solaire,36129,36129,"0,1",-,-,1
+Occitanie,Solaire,25095,25095,"0,12",-,-,3
+Pays de la Loire,Solaire,4083,4083,"0,1",-,-,1
+Provence-Alpes-Côte d'Azur,Solaire,25984,25984,"0,14",-,-,5
+,,,,,,,
+Auvergne-Rhône-Alpes,Eolien onshore,58483,44587,"0,22",-,-,6
+Bourgogne-Franche-Comté,Eolien onshore,82567,82567,"0,19",-,-,2
+Bretagne,Eolien onshore,100413,100413,"0,12",-,-,4
+Centre-Val de Loire,Eolien onshore,116139,70728,"0,12",-,-,5
+Grand Est,Eolien onshore,380019,181216,"0,13",-,-,6
+Haut-de-France,Eolien onshore,387939,90959,"0,16",-,-,5
+Île-de-France,Eolien onshore,7085,7085,"0,12",-,-,2
+Normandie,Eolien onshore,82964,1977,"0,26",-,-,2
+Nouvelle-Aquitaine,Eolien onshore,87050,4144,"0,27",-,-,2
+Occitanie,Eolien onshore,126335,11448,"0,25",-,-,2
+Pays de la Loire,Eolien onshore,94918,1057,"0,22",-,-,1
+Provence-Alpes-Côte d'Azur,Eolien onshore,3579,-,-,-,-,-
+Auvergne-Rhône-Alpes,Hydraulique,71261,46782,"0,17",-,-,7
+Bourgogne-Franche-Comté,Hydraulique,12309,964,"0,2",-,-,1
+Bretagne,Hydraulique,2759,-,-,-,-,-
+Centre-Val de Loire,Hydraulique,2042,-,-,-,-,-
+Grand Est,Hydraulique,14364,3821,"0,3",-,-,2
+Haut-de-France,Hydraulique,594,-,-,-,-,-
+Île-de-France,Hydraulique,432,-,-,-,-,-
+Normandie,Hydraulique,3759,-,-,-,-,-
+Nouvelle-Aquitaine,Hydraulique,53183,8968,"0,33",-,-,2
+Occitanie,Hydraulique,80948,4986,"0,27",-,-,2
+Pays de la Loire,Hydraulique,740,-,-,-,-,-
+Provence-Alpes-Côte d'Azur,Hydraulique,24868,3189,"0,23",-,-,3
+Auvergne-Rhône-Alpes,Solaire,6544,6544,"0,1",-,-,3
+Bourgogne-Franche-Comté,Solaire,2640,2640,"0,15",-,-,2
+Bretagne,Solaire,638,638,"0,12",-,-,2
+Centre-Val de Loire,Solaire,1989,1989,"0,18",-,-,2
+Grand Est,Solaire,3366,3366,"0,25",-,-,4
+Haut-de-France,Solaire,559,559,"0,11",-,-,3
+Île-de-France,Solaire,128,128,"0,12",-,-,2
+Normandie,Solaire,524,524,"0,1",-,-,1
+Nouvelle-Aquitaine,Solaire,18087,18087,"0,12",-,-,5
+Occitanie,Solaire,15810,15810,"0,11",-,-,3
+Pays de la Loire,Solaire,2479,2479,"0,11",-,-,2
+Provence-Alpes-Côte d'Azur,Solaire,14723,14723,"0,15",-,-,5
+,,,,,,,
+Auvergne-Rhône-Alpes,Eolien onshore,75428,73786,"0,14",-,-,5
+Bourgogne-Franche-Comté,Eolien onshore,115313,19193,"0,18",-,-,3
+Bretagne,Eolien onshore,130009,15649,"0,21",-,-,1
+Centre-Val de Loire,Eolien onshore,140898,8553,"0,23",-,-,3
+Grand Est,Eolien onshore,517716,79814,"0,22",-,-,6
+Haut-de-France,Eolien onshore,597795,59302,"0,23",-,-,5
+Île-de-France,Eolien onshore,9304,-,-,-,-,-
+Normandie,Eolien onshore,126913,11146,"0,2",-,-,3
+Nouvelle-Aquitaine,Eolien onshore,111351,11276,"0,28",-,-,4
+Occitanie,Eolien onshore,156849,17521,"0,24",-,-,4
+Pays de la Loire,Eolien onshore,126304,6394,"0,21",-,-,2
+Provence-Alpes-Côte d'Azur,Eolien onshore,4610,-,-,-,-,-
+Auvergne-Rhône-Alpes,Hydraulique,89261,10748,"0,15",-,-,4
+Bourgogne-Franche-Comté,Hydraulique,18114,338,"0,24",-,-,1
+Bretagne,Hydraulique,2474,-,-,-,-,-
+Centre-Val de Loire,Hydraulique,4325,-,-,-,-,-
+Grand Est,Hydraulique,18504,1386,"0,25",-,-,1
+Haut-de-France,Hydraulique,621,-,-,-,-,-
+Île-de-France,Hydraulique,338,-,-,-,-,-
+Normandie,Hydraulique,3686,-,-,-,-,-
+Nouvelle-Aquitaine,Hydraulique,63940,5591,"0,26",-,-,2
+Occitanie,Hydraulique,104566,4792,"0,26",-,-,3
+Pays de la Loire,Hydraulique,867,-,-,-,-,-
+Provence-Alpes-Côte d'Azur,Hydraulique,24099,3653,"0,19",-,-,3
+Auvergne-Rhône-Alpes,Solaire,6381,6381,"0,3",-,-,2
+Bourgogne-Franche-Comté,Solaire,2547,2547,"0,3",-,-,1
+Bretagne,Solaire,510,510,"0,3",-,-,1
+Centre-Val de Loire,Solaire,1736,1736,"0,3",-,-,2
+Grand Est,Solaire,3410,3410,"0,3",-,-,2
+Haut-de-France,Solaire,383,383,"0,3",-,-,1
+Île-de-France,Solaire,118,118,"0,3",-,-,1
+Normandie,Solaire,448,448,"0,3",-,-,1
+Nouvelle-Aquitaine,Solaire,17593,17593,"0,3",-,-,3
+Occitanie,Solaire,14005,14005,"0,3",-,-,3
+Pays de la Loire,Solaire,2153,2153,"0,3",-,-,1
+Provence-Alpes-Côte d'Azur,Solaire,15371,15371,"0,31",-,-,4
